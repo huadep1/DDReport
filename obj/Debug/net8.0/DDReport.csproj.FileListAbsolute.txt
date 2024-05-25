@@ -1,0 +1,17 @@
+C:\Users\huadep1\source\repos\DDReport\bin\Debug\net8.0\DDReport.exe
+C:\Users\huadep1\source\repos\DDReport\bin\Debug\net8.0\DDReport.deps.json
+C:\Users\huadep1\source\repos\DDReport\bin\Debug\net8.0\DDReport.runtimeconfig.json
+C:\Users\huadep1\source\repos\DDReport\bin\Debug\net8.0\DDReport.dll
+C:\Users\huadep1\source\repos\DDReport\bin\Debug\net8.0\DDReport.pdb
+C:\Users\huadep1\source\repos\DDReport\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\huadep1\source\repos\DDReport\obj\Debug\net8.0\DDReport.csproj.AssemblyReference.cache
+C:\Users\huadep1\source\repos\DDReport\obj\Debug\net8.0\DDReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huadep1\source\repos\DDReport\obj\Debug\net8.0\DDReport.AssemblyInfoInputs.cache
+C:\Users\huadep1\source\repos\DDReport\obj\Debug\net8.0\DDReport.AssemblyInfo.cs
+C:\Users\huadep1\source\repos\DDReport\obj\Debug\net8.0\DDReport.csproj.CoreCompileInputs.cache
+C:\Users\huadep1\source\repos\DDReport\obj\Debug\net8.0\DDReport.csproj.Up2Date
+C:\Users\huadep1\source\repos\DDReport\obj\Debug\net8.0\DDReport.dll
+C:\Users\huadep1\source\repos\DDReport\obj\Debug\net8.0\refint\DDReport.dll
+C:\Users\huadep1\source\repos\DDReport\obj\Debug\net8.0\DDReport.pdb
+C:\Users\huadep1\source\repos\DDReport\obj\Debug\net8.0\DDReport.genruntimeconfig.cache
+C:\Users\huadep1\source\repos\DDReport\obj\Debug\net8.0\ref\DDReport.dll

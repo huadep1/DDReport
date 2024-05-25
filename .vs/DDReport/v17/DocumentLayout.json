@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\huadep1\\source\\repos\\DDReport\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7DD9B9-A11A-4955-BA4B-0606CF355CB5}|DDReport.csproj|c:\\users\\huadep1\\source\\repos\\ddreport\\facebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7DD9B9-A11A-4955-BA4B-0606CF355CB5}|DDReport.csproj|solutionrelative:facebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7DD9B9-A11A-4955-BA4B-0606CF355CB5}|DDReport.csproj|c:\\users\\huadep1\\source\\repos\\ddreport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7DD9B9-A11A-4955-BA4B-0606CF355CB5}|DDReport.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7DD9B9-A11A-4955-BA4B-0606CF355CB5}|DDReport.csproj|c:\\users\\huadep1\\source\\repos\\ddreport\\submit_session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7DD9B9-A11A-4955-BA4B-0606CF355CB5}|DDReport.csproj|solutionrelative:submit_session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7DD9B9-A11A-4955-BA4B-0606CF355CB5}|DDReport.csproj|c:\\users\\huadep1\\source\\repos\\ddreport\\execute_session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7DD9B9-A11A-4955-BA4B-0606CF355CB5}|DDReport.csproj|solutionrelative:execute_session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7DD9B9-A11A-4955-BA4B-0606CF355CB5}|DDReport.csproj|c:\\users\\huadep1\\source\\repos\\ddreport\\start_session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7DD9B9-A11A-4955-BA4B-0606CF355CB5}|DDReport.csproj|solutionrelative:start_session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7DD9B9-A11A-4955-BA4B-0606CF355CB5}|DDReport.csproj|c:\\users\\huadep1\\source\\repos\\ddreport\\next_session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7DD9B9-A11A-4955-BA4B-0606CF355CB5}|DDReport.csproj|solutionrelative:next_session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 175,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "submit_session.cs",
+              "DocumentMoniker": "C:\\Users\\huadep1\\source\\repos\\DDReport\\submit_session.cs",
+              "RelativeDocumentMoniker": "submit_session.cs",
+              "ToolTip": "C:\\Users\\huadep1\\source\\repos\\DDReport\\submit_session.cs",
+              "RelativeToolTip": "submit_session.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAD4v6wAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T04:13:01.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "execute_session.cs",
+              "DocumentMoniker": "C:\\Users\\huadep1\\source\\repos\\DDReport\\execute_session.cs",
+              "RelativeDocumentMoniker": "execute_session.cs",
+              "ToolTip": "C:\\Users\\huadep1\\source\\repos\\DDReport\\execute_session.cs",
+              "RelativeToolTip": "execute_session.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T03:55:25.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "next_session.cs",
+              "DocumentMoniker": "C:\\Users\\huadep1\\source\\repos\\DDReport\\next_session.cs",
+              "RelativeDocumentMoniker": "next_session.cs",
+              "ToolTip": "C:\\Users\\huadep1\\source\\repos\\DDReport\\next_session.cs",
+              "RelativeToolTip": "next_session.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8BAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T03:35:05.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "start_session.cs",
+              "DocumentMoniker": "C:\\Users\\huadep1\\source\\repos\\DDReport\\start_session.cs",
+              "RelativeDocumentMoniker": "start_session.cs",
+              "ToolTip": "C:\\Users\\huadep1\\source\\repos\\DDReport\\start_session.cs",
+              "RelativeToolTip": "start_session.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T02:55:39.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Facebook.cs",
+              "DocumentMoniker": "C:\\Users\\huadep1\\source\\repos\\DDReport\\Facebook.cs",
+              "RelativeDocumentMoniker": "Facebook.cs",
+              "ToolTip": "C:\\Users\\huadep1\\source\\repos\\DDReport\\Facebook.cs",
+              "RelativeToolTip": "Facebook.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T01:41:03.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\huadep1\\source\\repos\\DDReport\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\huadep1\\source\\repos\\DDReport\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T01:38:53.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

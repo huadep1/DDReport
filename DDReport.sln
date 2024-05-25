@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDReport", "DDReport.csproj", "{FC7DD9B9-A11A-4955-BA4B-0606CF355CB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC7DD9B9-A11A-4955-BA4B-0606CF355CB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC7DD9B9-A11A-4955-BA4B-0606CF355CB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC7DD9B9-A11A-4955-BA4B-0606CF355CB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC7DD9B9-A11A-4955-BA4B-0606CF355CB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B689529C-2E21-4615-AE07-235325892B43}
+	EndGlobalSection
+EndGlobal
